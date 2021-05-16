@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3C117AD9-603F-4ACD-8BD9-429003A8BAFB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "617A22E2-8819-4EBD-9628-9A53F1BAE73E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatApp/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "617A22E2-8819-4EBD-9628-9A53F1BAE73E - 80aa4d4940145933"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatApp.ConversationsViewController.__deallocating_deinit"
+                  moduleName = "ChatApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/drole/Documents/Swift/SwiftProj/ChatApp/ChatApp/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "617A22E2-8819-4EBD-9628-9A53F1BAE73E - d2d7ad56e6d2fb25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatApp.ConversationsViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ChatApp.ConversationsViewController"
+                  moduleName = "ChatApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/drole/Documents/Swift/SwiftProj/ChatApp/ChatApp/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "617A22E2-8819-4EBD-9628-9A53F1BAE73E - f15f74f90f4f1ef8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatApp.ConversationsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ChatApp.ConversationsViewController"
+                  moduleName = "ChatApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/drole/Documents/Swift/SwiftProj/ChatApp/ChatApp/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "386">
+               </Location>
+               <Location
+                  uuid = "617A22E2-8819-4EBD-9628-9A53F1BAE73E - 724acb82db477265"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatApp.ConversationsViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ChatApp.ConversationsViewController&gt;"
+                  moduleName = "ChatApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/drole/Documents/Swift/SwiftProj/ChatApp/ChatApp/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "617A22E2-8819-4EBD-9628-9A53F1BAE73E - d4dbc073f07ca12d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatApp.ConversationsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ChatApp.ConversationsViewController&gt;"
+                  moduleName = "ChatApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/drole/Documents/Swift/SwiftProj/ChatApp/ChatApp/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0688A969-5A01-4F6F-AFDD-A7BAC3D312DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatApp/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ConversationsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0688A969-5A01-4F6F-AFDD-A7BAC3D312DE - 80aa4d4940145933"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatApp.ConversationsViewController.__deallocating_deinit"
+                  moduleName = "ChatApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/drole/Documents/Swift/SwiftProj/ChatApp/ChatApp/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "0688A969-5A01-4F6F-AFDD-A7BAC3D312DE - d2d7ad56e6d2fb25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatApp.ConversationsViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ChatApp.ConversationsViewController"
+                  moduleName = "ChatApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/drole/Documents/Swift/SwiftProj/ChatApp/ChatApp/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "0688A969-5A01-4F6F-AFDD-A7BAC3D312DE - f15f74f90f4f1ef8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatApp.ConversationsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ChatApp.ConversationsViewController"
+                  moduleName = "ChatApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/drole/Documents/Swift/SwiftProj/ChatApp/ChatApp/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "386">
+               </Location>
+               <Location
+                  uuid = "0688A969-5A01-4F6F-AFDD-A7BAC3D312DE - 724acb82db477265"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatApp.ConversationsViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ChatApp.ConversationsViewController&gt;"
+                  moduleName = "ChatApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/drole/Documents/Swift/SwiftProj/ChatApp/ChatApp/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "0688A969-5A01-4F6F-AFDD-A7BAC3D312DE - d4dbc073f07ca12d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatApp.ConversationsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ChatApp.ConversationsViewController&gt;"
+                  moduleName = "ChatApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/drole/Documents/Swift/SwiftProj/ChatApp/ChatApp/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC94D439-5950-461C-9C9D-A689F61BC114"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatApp/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57FCF3FA-53F1-49CF-A0BD-A7C6A716EE33"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatApp/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
