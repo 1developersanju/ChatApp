@@ -245,7 +245,7 @@ extension RegisterViewController: UIImagePickerControllerDelegate, UINavigationC
                                             preferredStyle: .actionSheet)
         
         
-        actionSheet.addAction(UIAlertAction(title: "Cancel",
+        actionSheet.addAction(UIAlertAction(title: "cancel",
                                             style: .cancel,
                                             handler: nil))
         
@@ -261,6 +261,12 @@ extension RegisterViewController: UIImagePickerControllerDelegate, UINavigationC
                                                 self?.presentCamera()
                                             }))
         present(actionSheet, animated: true)
+        
+        actionSheet.addAction(UIAlertAction(title: "Remove Photo",
+                                            style: .default,
+                                            handler: {[weak self] _ in
+                                                self?.removePhoto()
+                                            }))
     }
     
     func presentCamera() {
@@ -269,6 +275,10 @@ extension RegisterViewController: UIImagePickerControllerDelegate, UINavigationC
         vcontroller.delegate = self
         vcontroller.allowsEditing = true
         present(vcontroller, animated: true)
+    }
+
+    func removePhoto() {
+        imageView.image = UIImage(named:"personAdd")
     }
     
     func presentPhotoPicker() {
